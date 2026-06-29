@@ -1,0 +1,10 @@
+numpy
+scikit-image
+scikit-learn
+joblib
+matplotlib
+tqdm
+fastapi
+uvicorn
+opencv-contrib-python
+uvicorn[standard]
